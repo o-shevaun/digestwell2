@@ -368,7 +368,7 @@ All ML scripts live in `backend/ml/`.
 
 ## ML Visualisations
 
-To generate plots for your report / presentation:
+To generate plots:
 
 ```bash
 python -m ml.visualize_recommender
