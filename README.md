@@ -101,7 +101,8 @@ DigestWell:
   * `ml.visualize_recommender.py` – ROC curve, confusion matrix, feature importance.
 * **Model performance**
 
-  * With real interactions, the recommender achieves a **ROC AUC ≈ 0.80–0.83** on a held-out test set (not perfect → realistic, not overfitted).
+  * With real interactions, the recommender achieves a **ROC AUC ≈ 0.80–0.83** on a held-out test set (not perfect → realistic, not overfitted).<img width="470" height="225" alt="image" src="https://github.com/user-attachments/assets/e6874ffb-133c-418b-a73d-d5e4dfd7c05e" />
+
 * **Runtime inference**
 
   * `ml.inference.py` loads `recommender.joblib`.
