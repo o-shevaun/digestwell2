@@ -200,7 +200,7 @@ Trained model is saved to:
 ```text
 backend/ml_output/recommender.joblib
 
-## Project Structure
+Project Structure
 
 nutrition-suite/
 ├── frontend/                # Next.js + Tailwind app
@@ -232,9 +232,9 @@ nutrition-suite/
 │
 └── README.md
 
-## Requirements
+Requirements
 
-### Backend
+Backend
 
 - Python 3.11+
 
@@ -244,7 +244,7 @@ nutrition-suite/
 
 - Spoonacular API key (and optionally Edamam/Nutritionix keys)
 
-### Frontend
+Frontend
 
 - Node.js 18+
 
