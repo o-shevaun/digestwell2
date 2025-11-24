@@ -313,9 +313,9 @@ The app should be available at **[http://localhost:3000](http://localhost:3000)*
 ### Backend (`backend/.env` or shell)
 
 * `MONGODB_URI` – MongoDB Atlas connection string
-* `MONGODB_DB` – database name (e.g. `test` or `digestwell`)
+* `MONGODB_DB` – database name (e.g. `test` )
 * `SPOONACULAR_API_KEY` – Spoonacular API key
-* (Optional) `EDAMAM_APP_ID`, `EDAMAM_APP_KEY`, `NUTRITIONIX_APP_ID`, `NUTRITIONIX_API_KEY`
+* `EDAMAM_APP_ID`, `EDAMAM_APP_KEY`, `NUTRITIONIX_APP_ID`, `NUTRITIONIX_API_KEY`
 
 ### Frontend (`frontend/.env.local`)
 
