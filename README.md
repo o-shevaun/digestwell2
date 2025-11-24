@@ -1,4 +1,4 @@
-# DigestWell – Personalized Meal Plans for Digestive Health
+# DigestWell – Personalized Nutrition Recommendation System for Digestive Disorders Using Machine Learning
 
 DigestWell is a web application that helps people with **digestive disorders** (GERD, IBS, functional dyspepsia, lactose intolerance, celiac disease, etc.) discover **safe, personalized meals**.
 
