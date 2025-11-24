@@ -197,8 +197,7 @@ DigestWell uses a **tree-based ensemble classifier** (e.g. `GradientBoostingClas
 
 Trained model is saved to:
 
-```text
-backend/ml_output/recommender.joblib
+```text backend/ml_output/recommender.joblib
 
 Project Structure
 
@@ -236,16 +235,16 @@ Requirements
 
 Backend
 
-- Python 3.11+
+Python 3.11+
 
-- pip, virtualenv
+pip, virtualenv
 
-- MongoDB Atlas connection string
+MongoDB Atlas connection string
 
-- Spoonacular API key (and optionally Edamam/Nutritionix keys)
+Spoonacular API key (and optionally Edamam/Nutritionix keys)
 
 Frontend
 
-- Node.js 18+
+Node.js 18+
 
-- npm or yarn
+npm or yarn
