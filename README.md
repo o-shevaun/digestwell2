@@ -195,7 +195,7 @@ DigestWell uses a **tree-based ensemble classifier** (e.g. `GradientBoostingClas
 - Current validation example (will change as more real data is collected):
   - ROC AUC ≈ **0.80–0.83** on held-out test set
 
-Trained model is saved to:
+Trained model is saved to: text backend/ml_output/recommender.joblib
 
 ```text backend/ml_output/recommender.joblib
 
@@ -230,9 +230,7 @@ nutrition-suite/
 │       └── confusion_matrix.png
 │
 └── README.md
-
-
-Requirements
+``` Requirements
 
 Backend
 
