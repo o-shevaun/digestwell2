@@ -231,7 +231,7 @@ nutrition-suite/
 │
 └── README.md
 
----
+
 Requirements
 
 Backend
