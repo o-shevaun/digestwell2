@@ -231,4 +231,23 @@ nutrition-suite/
 │
 └── README.md
 
+---
+Requirements
+
+Backend
+
+Python 3.11+
+
+pip, virtualenv
+
+MongoDB Atlas connection string
+
+Spoonacular API key (and optionally Edamam/Nutritionix keys)
+
+Frontend
+
+Node.js 18+
+
+npm or yarn
+
 
