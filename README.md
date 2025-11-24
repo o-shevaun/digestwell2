@@ -195,9 +195,7 @@ DigestWell uses a **tree-based ensemble classifier** (e.g. `GradientBoostingClas
 - Current validation example (will change as more real data is collected):
   - ROC AUC ≈ **0.80–0.83** on held-out test set
 
-Trained model is saved to:
-
-```text backend/ml_output/recommender.joblib
+Trained model is saved to: ```text backend/ml_output/recommender.joblib
 
 Project Structure
 
@@ -231,20 +229,4 @@ nutrition-suite/
 │
 └── README.md
 
-Requirements
 
-Backend
-
-Python 3.11+
-
-pip, virtualenv
-
-MongoDB Atlas connection string
-
-Spoonacular API key (and optionally Edamam/Nutritionix keys)
-
-Frontend
-
-Node.js 18+
-
-npm or yarn
