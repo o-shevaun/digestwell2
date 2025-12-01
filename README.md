@@ -383,7 +383,9 @@ Outputs saved into `backend/ml_output/`:
   
 ## Screenshots
 
-> <img width="572" height="463" alt="image" src="https://github.com/user-attachments/assets/edcbf50b-7f10-4104-87ea-4003e2b3c905" />, <img width="692" height="441" alt="image" src="https://github.com/user-attachments/assets/8d0d53a7-9656-403c-9c35-8100595a54da" />, <img width="576" height="469" alt="image" src="https://github.com/user-attachments/assets/bbfef30e-f91d-40d1-b154-d13c012f035c" />
+> <img width="572" height="463" alt="image" src="https://github.com/user-attachments/assets/edcbf50b-7f10-4104-87ea-4003e2b3c905" />, <img width="692" height="441" alt="image" src="https://github.com/user-attachments/assets/8d0d53a7-9656-403c-9c35-8100595a54da" />, <img width="576" height="469" alt="image" src="https://github.com/user-attachments/assets/bbfef30e-f91d-40d1-b154-d13c012f035c" />, <img width="545" height="621" alt="image" src="https://github.com/user-attachments/assets/e563bdbe-3af5-42ef-b3cd-29ab30623f1f" />, <img width="544" height="619" alt="image" src="https://github.com/user-attachments/assets/b51d1e58-9077-4da1-9d36-2a8cea26c93e" />
+
+
 
 ---
 
